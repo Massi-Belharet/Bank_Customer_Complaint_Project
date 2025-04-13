@@ -1,7 +1,7 @@
 # Bank Customer Complaint Analysis
 
 ## Project Overview  
-This project analyzes and classifies customer complaints submitted to the Consumer Financial Protection Bureau (CFPB) across five financial product categories: credit reporting, debt collection, mortgages and loans, credit cards, and retail banking. Using Natural Language Processing (NLP) and machine learning techniques, the system automatically categorizes complaint narratives to help financial institutions route them to appropriate departments more efficiently.
+This project analyzes and classifies customer complaints submitted to the Consumer Financial Protection Bureau across five financial product categories: credit reporting, debt collection, mortgages and loans, credit cards, and retail banking. Using Natural Language Processing (NLP) and machine learning techniques, the system automatically categorizes complaint narratives to help financial institutions route them to appropriate departments more efficiently.
 
 ## Objectives
 - Preprocess and analyze textual complaint data using NLP techniques  
